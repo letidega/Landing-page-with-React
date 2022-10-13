@@ -1,0 +1,22 @@
+.card{
+    width: 300px;
+    margin: 0 20px;
+    height: 870px;
+    background-color: whitesmoke; 
+} 
+    
+img {
+    width: auto;
+    height: 420px;
+    }
+    
+.card-title{
+    font-size: 20px;
+    color: black;
+    }
+
+.card-text{
+    font-size: 14px;
+    color: grey;
+}
+
