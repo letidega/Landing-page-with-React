@@ -13,7 +13,7 @@ const Home = () => {
       <NavTop></NavTop>
       <div className="Container">
         <Heading></Heading>
-        <div className="ContainerCard d-flex p-2">
+        <div className="ContainerCard d-flex flex-wrap p-1">
           <Card
             title="Hanako-kun: El Fantasma del Lavabo"
             description="Nene Yashiro es una estudiante de la Academia Kamome, famosa por sus sucesos paranormales y por albergar a los siete míticos misterios. El séptimo misterio no es otro que Hanako, un chico que habita los lavabos del tercer piso de la academia y que concede deseos. Cuando Nene decide invocarlo para pedir un deseo, cae sobre ella una maldición que hace que tenga que trabajar para él como su asistenta. Poco a poco se va desgranando el pasado de Hanako mientras se descubren los secretos que se esconden entre los siete misterios."
